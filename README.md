@@ -8,7 +8,7 @@ Execute: `git clone <YOUR_REPOSITORY>`
 
 2. In your repository, insert in file `README.md`:
 ```
-My Sens'it ID: <YOUR_SENSIT_ID>
+My Sens'it ID: B436B7
 ```
 3. Commit and push your work!
 
